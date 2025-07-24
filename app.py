@@ -67,7 +67,7 @@ st.markdown("""
 
 def main():
     # Header
-    st.markdown('<h1 class="main-header">📈 Professional Sharpe Ratio Calculator</h1>', unsafe_allow_html=True)
+    st.markdown('<h1 class="main-header">📈 Sharpe Ratio Calculator</h1>', unsafe_allow_html=True)
     
     st.markdown("""
     <div class="info-box">
